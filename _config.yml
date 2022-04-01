@@ -14,7 +14,7 @@ baseurl: ""
 username: tecnologia y soporte
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: te aydaremos
+typing_text: te ayudaremos
 # email: Your E-Mail address for the email button.
 email: Leonardojoel09mv@gmail.com
 # For every social button you want to display, set your username or userid
@@ -41,7 +41,7 @@ about_me_description: nosotros te atendemos todos los dias de la semana y en cua
 # > setting this to false, will omit the Skills section
 show_skills_card: true
 # about_me_title: The will be displayed as the title in the Skills section
-skills_title: Skills
+skills_title: Ski
 
 # TIMELINE SECTION
 # show_timeline_card:
