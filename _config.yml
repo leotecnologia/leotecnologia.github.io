@@ -34,8 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: comunicate con nosotros
 # about_me_description: This will be displayed under the title.
-about_me_description: nosotros te atendemos todos los dias de la semana y en cuaquier momento, class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>. You can also find me on <a class="highlight-link" href="https://jamstackthemes.dev/theme/jekyll-neumorphism/" target="_blank" rel="noreferrer">JAMstack Themes</a> and on <a class="highlight-link" href="https://jekyll-themes.com/neumorphism/" target="_blank" rel="noreferrer">Jekyll Themes</a>.
-
+about_me_description: nosotros te atendemos todos los dias de la semana y en cuaquier momento
 # SKILLS SECTION
 # show_skills_card:
 # > setting this to true, will display the Skills section
@@ -50,7 +49,7 @@ skills_title: Skills
 # > setting this to false, will omit the Timeline section
 show_timeline_card: true
 # timeline_title: The will be displayed as the title in the Timeline section
-timeline_title: Education & Experience
+timeline_title: Educacion y experiencia
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
 cv_download_link: https://example.com/
@@ -65,13 +64,13 @@ show_projects_card: true
 # > setting this to false, will omit your listed projects
 show_projects: true
 # projects_title: The will be displayed as the title of your projects
-projects_title: Projects
+projects_title: Proyectos
 # show_os_projects:
 # > setting this to true, will display your public projects on github
 # > setting this to false, will omit your public projects on github
 show_os_projects: true
 # os_projects_title: The will be displayed as the title of your open source projects
-os_projects_title: Open Source Projects
+os_projects_title: abierta la socursal de proyectos
 
 # CONTACT SECTION
 # show_contact_card:
@@ -81,7 +80,7 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: contactanos
 # contact_description: This will be displayed under the title.
-contact_description: contactanos nosotros nos encargamos de todo los casosn que tengas sobre la electronica.
+contact_description: contactanos nosotros nos encargamos de todo los casos que tengas sobre la electronica.
 
 # GITHUB-METADATA
 # Set this to your forked repository
