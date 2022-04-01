@@ -11,10 +11,10 @@ baseurl: ""
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
-username: Neumorphism
+username: tecnologiasopourtleo
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Jekyll Theme
+typing_text: te aydaremos
 # email: Your E-Mail address for the email button.
 email: email@example.com
 # For every social button you want to display, set your username or userid
@@ -115,7 +115,7 @@ google-analytics:
 ### END OF VALUES YOU SHOULD CHANGE ###
 
 plugins:
-  - "jekyll-github-metadata"
+  - "leotecnologia"
 
 exclude:
   [
